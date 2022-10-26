@@ -1,11 +1,11 @@
 {
-   "name": "Spookycord",
+   "name": "AMOLED",
    "version": "1.0.0",
-   "description": "A very spooky theme for the spooky holiday 🎃👻🦇",
+   "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
    "authors": [
       {
-         "name": "French Cat",
-         "id": "811770910624579584"
+         "name": "eternal",
+         "id": "263689920210534400"
       }
    ],
    "theme_color_map": {
